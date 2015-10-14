@@ -1,0 +1,23 @@
+{
+  "name": "queue-svc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test"
+  },
+  "keywords": [],
+  "author": "Tom",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^5.4.0",
+    "palmettoflow-event": "^1.1.2",
+    "pouchdb": "^5.0.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "palmettoflow-nodejs": "^1.0.1",
+    "rewire": "^2.3.4",
+    "tap": "^2.1.1"
+  }
+}
