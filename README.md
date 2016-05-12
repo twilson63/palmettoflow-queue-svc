@@ -19,7 +19,7 @@ Register in Service Container
 
 ``` js
 var ee = palmetto()
-var svc = require('@lincs/queue-service')
+var svc = require('queue-service')
 
 
 svc(ee)
